@@ -1,0 +1,30 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/shwehtoo5/moetein/blob/main/moetein.zip?raw=true" ,
+"Changelog":"
+ဖိုင္​တင္​သည္​့​ေန႔စြဲ/ရက္ [6/3/2023]
+Thai _Vpn Update File
+SG_DTAC SMS PRO
+SG_TRUE SMS PRO
+တစ္​ဦးတစ္​​ေယာက္​အတြက္​အဆင္​​ေျပရင္​
+ကြၽန္​​ေတာ္​ မိုးတိမ္​ ​ေက်နပ္​့ပါသည္​
+┏━━━━•❅•°•❈•°•❅ •━━━━┓
+❈     ႏွလုံးသား+password       ❈                            ┗━━━━•❅•°•❈•°•❅ •━━━━┛
+-------------------------------------
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
