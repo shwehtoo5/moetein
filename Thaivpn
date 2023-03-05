@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.02",
+"Version":"1.01",
 //link for server update
 "Url":"https://github.com/shwehtoo5/moetein/blob/main/moetein.zip?raw=true" ,
 "Changelog":"
