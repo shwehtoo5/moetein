@@ -1,0 +1,27 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/shwehtoo5/moetein/blob/main/thaisky.zip?raw=true" ,
+"Changelog":"
+ဖိုင္​တင္​သည္​့​ေန႔စြဲ/ရက္  [11/3/2023]
+Thai.Sky _Vpn Update File
+SG_DTAC SMS PRO
+┏━━━━•❅•°•❈•°•❅ •━━━━┓
+❈     ႏွလုံးသား+password       ❈                            ┗━━━━•❅•°•❈•°•❅ •━━━━┛
+-------------------------------------
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
